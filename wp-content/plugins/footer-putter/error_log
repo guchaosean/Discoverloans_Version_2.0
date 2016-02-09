@@ -1,0 +1,4 @@
+[29-Jan-2015 04:41:09 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/discov10/public_html/wp-content/plugins/footer-putter/main.php on line 15
+[29-Jan-2015 04:41:09 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/discov10/public_html/wp-content/plugins/footer-putter/main.php on line 15
+[29-Jan-2015 04:44:17 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/discov10/public_html/wp-content/plugins/footer-putter/main.php on line 15
+[29-Jan-2015 04:44:17 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/discov10/public_html/wp-content/plugins/footer-putter/main.php on line 15

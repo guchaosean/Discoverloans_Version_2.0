@@ -1,0 +1,16 @@
+[29-Jan-2015 04:42:21 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/discov10/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[29-Jan-2015 04:42:21 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/discov10/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[29-Jan-2015 04:42:21 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/discov10/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[29-Jan-2015 04:42:21 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/discov10/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[29-Jan-2015 04:42:22 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/discov10/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[29-Jan-2015 04:42:22 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/discov10/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[29-Jan-2015 04:42:22 UTC] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/discov10/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[29-Jan-2015 04:42:23 UTC] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/discov10/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[29-Jan-2015 04:45:54 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/discov10/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[29-Jan-2015 04:45:54 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/discov10/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[29-Jan-2015 04:45:55 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/discov10/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[29-Jan-2015 04:45:56 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/discov10/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[29-Jan-2015 04:45:56 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/discov10/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[29-Jan-2015 04:45:56 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/discov10/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[29-Jan-2015 04:45:57 UTC] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/discov10/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[29-Jan-2015 04:45:58 UTC] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/discov10/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58

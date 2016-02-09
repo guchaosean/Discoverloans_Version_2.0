@@ -1,0 +1,95 @@
+.UsedCarForSale_calc-container-small a, .UsedCarForSale_calc-container-small a:visited {color:#004276;}
+.UsedCarForSale_calc-container-small a:hover {color:#fff;}
+.UsedCarForSale_calc-container-small a:focus {outline:none;}
+			
+.UsedCarForSale_calc-container-small {border: 1px solid #d2dfff; width: 255px; background-color:#e7e7e7; padding: 10px; font-family: arial, helvetica, sans-serif; font-size: 12px; overflow: auto;  overflow-y: hidden ! important;}
+
+.UsedCarForSale_boxhead-container-small {background-color: #ffffff; border-left: 1px solid #d2dfff; border-right: 1px solid #d2dfff; border-top: 1px solid #d2dfff;width: 275px; overflow: hidden;}
+
+.UsedCarForSale_boxhead {height: 25px; float: left; margin: 5px 5px 0px 5px; font-family: arial, helvetica, sans-serif; font-weight: bold; color: #004276; font-size: 12px;}
+.UsedCarForSale_boxhead_200 {height: 25px; float: left; padding: 2px 5px 7px 5px; font-family: arial, helvetica, sans-serif; font-weight: bold; color: #004276; font-size: 10px; width:45%; text-align:left; line-height:13px;}
+.UsedCarForSale_boxhead_200_auto {height: 25px; float: left; padding: 2px 5px 7px 5px; font-family: arial, helvetica, sans-serif; font-weight: bold; color: #004276; font-size: 10px; width:35%; text-align:left; line-height:13px;} 
+.UsedCarForSale_boxhead-logo {background: url(widget-sprite.gif) bottom right; height: 23px; width: 115px; float: right; cursor: pointer;}
+
+.UsedCarForSale_subhead {height: 25px; float: left; font-family: arial, helvetica, sans-serif; font-weight: bold; color: #004276; font-size: 11px;}
+
+.UsedCarForSale_calc-container-small .UsedCarForSale_col1 {float: left; width: 180px; text-align: left; }
+.UsedCarForSale_calc-container-small .UsedCarForSale_results-col1 {float: left; width:auto; padding-bottom: 10px; text-align:left; width:55%; line-height:12px;}
+.UsedCarForSale_calc-container-small .UsedCarForSale_results-col2 { font-weight: bold; color: #000; text-align:right; margin-bottom: 10px; width:-1%; height:24px;}
+.UsedCarForSale_calc-container-small .UsedCarForSale_results-col2-new {font-weight: bold; color: #000; text-align:left; width:43%; height:22px; float:right;}
+.UsedCarForSale_calc-container-small .UsedCarForSale_results-colFull { margin-bottom: 10px; font-weight: bold; color: #000;}
+.UsedCarForSale_calc-container-small .UsedCarForSale_results-colFull-C { margin-bottom: 10px; font-weight: bold; color: #000; text-align: center;}
+.UsedCarForSale_calc-container-small .UsedCarForSale_amort-col1 {float: left; width: 50px; margin-bottom: 10px; margin-right: 10px; text-align: center;}
+.UsedCarForSale_calc-container-small .UsedCarForSale_amort-col2 { margin-bottom: 10px; color: #000;  }
+.UsedCarForSale_calc-container-small .UsedCarForSale_amort-results {margin: 0px auto; width: 140px;}
+.UsedCarForSale_results-container {padding: 10px; background-color: #ffffff; color: #000000; overflow: auto; border: 1px solid #d2dfff; overflow-y: hidden ! important;}
+
+.UsedCarForSale_results-underline-input {background-color: transparent; border-style: solid; border-width: 0px 0px 1px 0px; border-color: #000000; text-align: center; font-size: 11px; font-weight: bold;}
+
+.UsedCarForSale_col2 {float: left;}
+.UsedCarForSale_colFull {margin: 0px 0px 10px 0px; clear: both; padding-top: 0px; line-height: 10px; height: 5px;}
+
+
+.UsedCarForSale_button-small {
+	background: #817A74;
+	padding: 5px 5px 3px;
+	border-radius: 6px;
+	box-shadow: 1px 0px 1px #8C847E;
+	height: 20px;
+	width: 125px;
+	font-weight: bold;
+	margin: 10px 0px;
+}
+.UsedCarForSale_button-small div{color: #000000; font-weight: bold; font-size: 11px; text-transform: none; padding: 2px 0px 0px 0px; text-align: center;}
+.UsedCarForSale_button-small div, .UsedCarForSale_button-small div a, .UsedCarForSale_button-small div a:visited {
+color: rgb(255, 247, 247);
+font-weight: bold;
+font-size: 13px;
+text-transform: none;
+padding: 3px 0px 0px 0px;
+text-align: center;
+text-decoration: none;
+}
+
+.UsedCarForSale_button-med {background: url(widget-sprite.gif) -170px -73px no-repeat; height: 27px; width: 234px; color: #000000; font-weight: bold; font-size: 11px; margin: 15px 0px;}
+.UsedCarForSale_button-med div, .UsedCarForSale_button-med div a {color: #000000; font-weight: bold; font-size: 11px; text-transform: uppercase; padding: 3px 0px 0px 0px; text-align: center; text-decoration: none;}
+
+.UsedCarForSale_button-lg {background: url(widget-sprite.gif) -419px -73px no-repeat; height: 27px; width: 286px; color: #000000; font-weight: bold; font-size: 11px; margin: 15px 0px;}
+.UsedCarForSale_button-lg div, .UsedCarForSale_button-lg div a {color: #000000; font-weight: bold; font-size: 11px; text-transform: uppercase; padding: 3px 0px 0px 0px; text-align: center; text-decoration: none;}
+
+.UsedCarForSale_sel-options {width: 125px; font-size: 12px;}
+.UsedCarForSale_sel-options-dd {width: 74px; font-size: 12px;}
+
+.UsedCarForSale_form-error {font-family: arial, helvetica, sans-serif; color: red; font-size: 11px; text-align:left; float:left;}
+
+.UsedCarForSale_footer-container {background-color: #013c6b; padding: 2px 0px; color: #FFFFFF; font-size: 10px; font-family: arial, helvetica, sans-serif; text-align: center; width: 275px;}
+.UsedCarForSale_footer-container a, .UsedCarForSale_footer-container a:visited {color: #FFFFFF; font-size: 10px; font-family: arial, helvetica, sans-serif; text-align: center; text-decoration: none; background-color: inherit;}
+
+.UsedCarForSale_small {width: 277px;}
+.UsedCarForSale_calc-or {font-weight: bold; margin-bottom: 10px; text-align: center;}
+.UsedCarForSale_divider {width: 99%; border-top: 1px solid #d2dfff; margin: 5px 0px;}
+
+.UsedCarForSale_calc-orange-border {border-color: #bf7e00 !important;}
+.UsedCarForSale_calc-orange {background-color: #fcf1d0 !important;}
+.UsedCarForSale_calc-dkorange {background-color: #bf7e00 !important;}
+.UsedCarForSale_calc-orange-text {color: #000000 !important;}
+
+.UsedCarForSale_calc-dkgray-border {border-color: #3b3b3b !important;}
+.UsedCarForSale_calc-gray-border {border-color: #cdcdcd !important;}
+.UsedCarForSale_calc-gray {background-color: #ededed !important;}
+.UsedCarForSale_calc-dkgray {background-color: #3b3b3b !important;}
+.UsedCarForSale_calc-gray-text {color: #000000 !important;}
+
+.UsedCarForSale_calc-blue-border {border-color: #d2dfff !important;}
+.UsedCarForSale_calc-blue {background-color: #f3f6fb !important;}
+.UsedCarForSale_calc-dkblue {background-color: #013c6b !important;}
+.UsedCarForSale_calc-blue-text {color: #004276 !important;}
+
+.UsedCarForSale_calc-green-border {border-color: #72bc89 !important;}
+.UsedCarForSale_calc-green {background-color: #eafff0 !important;}
+.UsedCarForSale_calc-dkgreen {background-color: #0f4921 !important;}
+.UsedCarForSale_calc-green-text {color: #000000 !important;}
+.powered{
+	float:left;
+	font-size:x-small;
+}

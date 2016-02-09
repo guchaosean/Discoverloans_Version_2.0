@@ -1,0 +1,248 @@
+[27-Jan-2015 01:16:54 UTC] PHP Warning:  POST Content-Length of 14728667 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Jan-2015 01:23:33 UTC] PHP Warning:  POST Content-Length of 14728667 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Jan-2015 01:30:23 UTC] PHP Warning:  POST Content-Length of 14728672 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Jan-2015 03:23:24 UTC] PHP Warning:  POST Content-Length of 14728672 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Jan-2015 03:43:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(244): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/controller/ajax.php(146): CLM_MODEL->get_total_applicants()
+#3 [internal function]: clm_get_data('')
+#4 /home/discov10/public_html/wp-includes/plugin.php(496): call_user_func_array('clm_get_data', Array)
+#5 /home/discov10/public_html/wp-admin/admin-ajax.php(85): do_action('wp_ajax_clm_get...')
+#6 {main}
+  thrown in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 03:43:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(244): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/controller/ajax.php(146): CLM_MODEL->get_total_applicants()
+#3 [internal function]: clm_get_data('')
+#4 /home/discov10/public_html/wp-includes/plugin.php(496): call_user_func_array('clm_get_data', Array)
+#5 /home/discov10/public_html/wp-admin/admin-ajax.php(85): do_action('wp_ajax_clm_get...')
+#6 {main}
+  thrown in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 03:43:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(244): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/controller/ajax.php(146): CLM_MODEL->get_total_applicants()
+#3 [internal function]: clm_get_data('')
+#4 /home/discov10/public_html/wp-includes/plugin.php(496): call_user_func_array('clm_get_data', Array)
+#5 /home/discov10/public_html/wp-admin/admin-ajax.php(85): do_action('wp_ajax_clm_get...')
+#6 {main}
+  thrown in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 03:44:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(244): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/controller/ajax.php(146): CLM_MODEL->get_total_applicants()
+#3 [internal function]: clm_get_data('')
+#4 /home/discov10/public_html/wp-includes/plugin.php(496): call_user_func_array('clm_get_data', Array)
+#5 /home/discov10/public_html/wp-admin/admin-ajax.php(85): do_action('wp_ajax_clm_get...')
+#6 {main}
+  thrown in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 03:47:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(244): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/controller/ajax.php(146): CLM_MODEL->get_total_applicants()
+#3 [internal function]: clm_get_data('')
+#4 /home/discov10/public_html/wp-includes/plugin.php(496): call_user_func_array('clm_get_data', Array)
+#5 /home/discov10/public_html/wp-admin/admin-ajax.php(85): do_action('wp_ajax_clm_get...')
+#6 {main}
+  thrown in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 03:50:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(281): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/view/admin_dashboard_widget.php(18): CLM_MODEL->get_all_applicants_data(5)
+#3 [internal function]: clm_display_dashboard_widget('', Array)
+#4 /home/discov10/public_html/wp-admin/includes/template.php(1044): call_user_func('clm_display_das...', '', Array)
+#5 /home/discov10/public_html/wp-admin/includes/dashboard.php(182): do_meta_boxes('dashboard', 'normal', '')
+#6  in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 03:50:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(281): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/view/admin_dashboard_widget.php(18): CLM_MODEL->get_all_applicants_data(5)
+#3 [internal function]: clm_display_dashboard_widget('', Array)
+#4 /home/discov10/public_html/wp-admin/includes/template.php(1044): call_user_func('clm_display_das...', '', Array)
+#5 /home/discov10/public_html/wp-admin/includes/dashboard.php(182): do_meta_boxes('dashboard', 'normal', '')
+#6  in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 03:51:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(244): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/controller/ajax.php(146): CLM_MODEL->get_total_applicants()
+#3 [internal function]: clm_get_data('')
+#4 /home/discov10/public_html/wp-includes/plugin.php(496): call_user_func_array('clm_get_data', Array)
+#5 /home/discov10/public_html/wp-admin/admin-ajax.php(85): do_action('wp_ajax_clm_get...')
+#6 {main}
+  thrown in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 03:52:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(281): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/view/admin_dashboard_widget.php(18): CLM_MODEL->get_all_applicants_data(5)
+#3 [internal function]: clm_display_dashboard_widget('', Array)
+#4 /home/discov10/public_html/wp-admin/includes/template.php(1044): call_user_func('clm_display_das...', '', Array)
+#5 /home/discov10/public_html/wp-admin/includes/dashboard.php(182): do_meta_boxes('dashboard', 'normal', '')
+#6  in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 03:58:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(244): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/controller/ajax.php(146): CLM_MODEL->get_total_applicants()
+#3 [internal function]: clm_get_data('')
+#4 /home/discov10/public_html/wp-includes/plugin.php(496): call_user_func_array('clm_get_data', Array)
+#5 /home/discov10/public_html/wp-admin/admin-ajax.php(85): do_action('wp_ajax_clm_get...')
+#6 {main}
+  thrown in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 04:00:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(244): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/controller/ajax.php(146): CLM_MODEL->get_total_applicants()
+#3 [internal function]: clm_get_data('')
+#4 /home/discov10/public_html/wp-includes/plugin.php(496): call_user_func_array('clm_get_data', Array)
+#5 /home/discov10/public_html/wp-admin/admin-ajax.php(85): do_action('wp_ajax_clm_get...')
+#6 {main}
+  thrown in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 04:03:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(244): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/controller/ajax.php(146): CLM_MODEL->get_total_applicants()
+#3 [internal function]: clm_get_data('')
+#4 /home/discov10/public_html/wp-includes/plugin.php(496): call_user_func_array('clm_get_data', Array)
+#5 /home/discov10/public_html/wp-admin/admin-ajax.php(85): do_action('wp_ajax_clm_get...')
+#6 {main}
+  thrown in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 04:03:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(244): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/controller/ajax.php(146): CLM_MODEL->get_total_applicants()
+#3 [internal function]: clm_get_data('')
+#4 /home/discov10/public_html/wp-includes/plugin.php(496): call_user_func_array('clm_get_data', Array)
+#5 /home/discov10/public_html/wp-admin/admin-ajax.php(85): do_action('wp_ajax_clm_get...')
+#6 {main}
+  thrown in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 04:09:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(281): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/view/admin_dashboard_widget.php(18): CLM_MODEL->get_all_applicants_data(5)
+#3 [internal function]: clm_display_dashboard_widget('', Array)
+#4 /home/discov10/public_html/wp-admin/includes/template.php(1044): call_user_func('clm_display_das...', '', Array)
+#5 /home/discov10/public_html/wp-admin/includes/dashboard.php(182): do_meta_boxes('dashboard', 'normal', '')
+#6  in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 04:14:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(281): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/view/admin_dashboard_widget.php(18): CLM_MODEL->get_all_applicants_data(5)
+#3 [internal function]: clm_display_dashboard_widget('', Array)
+#4 /home/discov10/public_html/wp-admin/includes/template.php(1044): call_user_func('clm_display_das...', '', Array)
+#5 /home/discov10/public_html/wp-admin/includes/dashboard.php(182): do_meta_boxes('dashboard', 'normal', '')
+#6  in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 05:22:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(281): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/view/admin_dashboard_widget.php(18): CLM_MODEL->get_all_applicants_data(5)
+#3 [internal function]: clm_display_dashboard_widget('', Array)
+#4 /home/discov10/public_html/wp-admin/includes/template.php(1044): call_user_func('clm_display_das...', '', Array)
+#5 /home/discov10/public_html/wp-admin/includes/dashboard.php(182): do_meta_boxes('dashboard', 'normal', '')
+#6  in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 06:31:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(281): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/view/admin_dashboard_widget.php(18): CLM_MODEL->get_all_applicants_data(5)
+#3 [internal function]: clm_display_dashboard_widget('', Array)
+#4 /home/discov10/public_html/wp-admin/includes/template.php(1044): call_user_func('clm_display_das...', '', Array)
+#5 /home/discov10/public_html/wp-admin/includes/dashboard.php(182): do_meta_boxes('dashboard', 'normal', '')
+#6  in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 06:43:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(281): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/view/admin_dashboard_widget.php(18): CLM_MODEL->get_all_applicants_data(5)
+#3 [internal function]: clm_display_dashboard_widget('', Array)
+#4 /home/discov10/public_html/wp-admin/includes/template.php(1044): call_user_func('clm_display_das...', '', Array)
+#5 /home/discov10/public_html/wp-admin/includes/dashboard.php(182): do_meta_boxes('dashboard', 'normal', '')
+#6  in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 06:58:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(281): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/view/admin_dashboard_widget.php(18): CLM_MODEL->get_all_applicants_data(5)
+#3 [internal function]: clm_display_dashboard_widget('', Array)
+#4 /home/discov10/public_html/wp-admin/includes/template.php(1044): call_user_func('clm_display_das...', '', Array)
+#5 /home/discov10/public_html/wp-admin/includes/dashboard.php(182): do_meta_boxes('dashboard', 'normal', '')
+#6  in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 08:39:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(281): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/view/admin_dashboard_widget.php(18): CLM_MODEL->get_all_applicants_data(5)
+#3 [internal function]: clm_display_dashboard_widget('', Array)
+#4 /home/discov10/public_html/wp-admin/includes/template.php(1044): call_user_func('clm_display_das...', '', Array)
+#5 /home/discov10/public_html/wp-admin/includes/dashboard.php(182): do_meta_boxes('dashboard', 'normal', '')
+#6  in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 08:45:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(281): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/view/admin_dashboard_widget.php(18): CLM_MODEL->get_all_applicants_data(5)
+#3 [internal function]: clm_display_dashboard_widget('', Array)
+#4 /home/discov10/public_html/wp-admin/includes/template.php(1044): call_user_func('clm_display_das...', '', Array)
+#5 /home/discov10/public_html/wp-admin/includes/dashboard.php(182): do_meta_boxes('dashboard', 'normal', '')
+#6  in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 08:49:03 UTC] PHP Warning:  POST Content-Length of 14658791 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Jan-2015 09:01:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(281): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/view/admin_dashboard_widget.php(18): CLM_MODEL->get_all_applicants_data(5)
+#3 [internal function]: clm_display_dashboard_widget('', Array)
+#4 /home/discov10/public_html/wp-admin/includes/template.php(1044): call_user_func('clm_display_das...', '', Array)
+#5 /home/discov10/public_html/wp-admin/includes/dashboard.php(182): do_meta_boxes('dashboard', 'normal', '')
+#6  in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 09:01:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(244): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/controller/ajax.php(146): CLM_MODEL->get_total_applicants()
+#3 [internal function]: clm_get_data('')
+#4 /home/discov10/public_html/wp-includes/plugin.php(496): call_user_func_array('clm_get_data', Array)
+#5 /home/discov10/public_html/wp-admin/admin-ajax.php(85): do_action('wp_ajax_clm_get...')
+#6 {main}
+  thrown in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[27-Jan-2015 11:54:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php:143
+Stack trace:
+#0 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php(143): PDO->__construct('mysql:host=loca...', 'discov10_sean', '19900825')
+#1 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/model/clm-model.class.php(281): SKY_WPDB->initiateConnection()
+#2 /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/view/admin_dashboard_widget.php(18): CLM_MODEL->get_all_applicants_data(5)
+#3 [internal function]: clm_display_dashboard_widget('', Array)
+#4 /home/discov10/public_html/wp-admin/includes/template.php(1044): call_user_func('clm_display_das...', '', Array)
+#5 /home/discov10/public_html/wp-admin/includes/dashboard.php(182): do_meta_boxes('dashboard', 'normal', '')
+#6  in /home/discov10/public_html/wp-content/plugins/car-loan-application-and-calculator-module/libs/classes/database.class.php on line 143
+[28-Jan-2015 03:43:04 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 for query SELECT * FROM ; made by activate_plugin, do_action('activate_seo-rank-reporter/seo-rank-reporter.php'), call_user_func_array, seoRankReporterInstall
+[28-Jan-2015 04:43:38 UTC] WordPress database error Table 'discov10_wordpress.wp_wfConfig' doesn't exist for query select val from wp_wfConfig where name='disableConfigCaching' made by activate_plugin, include_once('/plugins/wordfence/wordfence.php'), wordfence::install_actions, wordfence::runInstall, wfConfig::get, wfDB->querySingle
+[28-Jan-2015 04:43:38 UTC] WordPress database error Table 'discov10_wordpress.wp_wfConfig' doesn't exist for query select val from wp_wfConfig where name='cbl_restOfSiteBlocked' made by activate_plugin, include_once('/plugins/wordfence/wordfence.php'), wordfence::install_actions, wordfence::runInstall, wfConfig::get, wfConfig::loadFromDiskCache, wfDB->querySingle
+[28-Jan-2015 04:43:38 UTC] WordPress database error Table 'discov10_wordpress.wp_wfConfig' doesn't exist for query insert into wp_wfConfig (name, val) values ('cbl_restOfSiteBlocked', '1') ON DUPLICATE KEY UPDATE val='1' made by activate_plugin, include_once('/plugins/wordfence/wordfence.php'), wordfence::install_actions, wordfence::runInstall, wfConfig::set, wfDB->queryWrite
+[03-Feb-2015 04:54:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from `from` varchar(150) CHARACTER SET utf8 NOT NULL' at line 1 for query ALTER TABLE wp_wplc_chat_msgs CHANGE COLUMN from `from` varchar(150) CHARACTER SET utf8 NOT NULL made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, wplc_version_control, wplc_handle_db, dbDelta
+[03-Feb-2015 05:17:10 UTC] WordPress database error Table 'discov10_wordpress.wp_translations' doesn't exist for query ALTER TABLE wp_translations DROP PRIMARY KEY made by activate_plugin, do_action('activate_transposh-translation-filter-for-wordpress/transposh.php'), call_user_func_array, transposh_plugin->plugin_activate, transposh_database->setup_db
+[03-Feb-2015 05:17:10 UTC] WordPress database error Table 'discov10_wordpress.wp_translations_log' doesn't exist for query ALTER TABLE wp_translations_log DROP PRIMARY KEY made by activate_plugin, do_action('activate_transposh-translation-filter-for-wordpress/transposh.php'), call_user_func_array, transposh_plugin->plugin_activate, transposh_database->setup_db
+[04-Feb-2015 00:31:21 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY timestamp ASC LIMIT 100' at line 1 for query SELECT original, lang, translated, translated_by, UNIX_TIMESTAMP(timestamp) as timestamp FROM wp_translations_log WHERE source= 0 and UNIX_TIMESTAMP(timestamp) >  ORDER BY timestamp ASC LIMIT 100 made by do_action('wp_ajax_tp_translation'), call_user_func_array, transposh_plugin->on_ajax_nopriv_tp_translation, transposh_database->update_translation, transposh_plugin->run_backup, transposh_backup->do_backup, transposh_database->get_all_human_translation_history
+[11-Feb-2015 04:37:53 UTC] WordPress database error Lost connection to MySQL server during query for query SELECT option_value FROM wp_options WHERE option_name = 'widget_googlemapswidget' LIMIT 1 made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, wp_widgets_init, do_action('widgets_init'), call_user_func_array, WP_Widget_Factory->_register_widgets, WP_Widget->_register, WP_Widget->get_settings, get_option
+[16-Feb-2015 06:16:24 UTC] WordPress database error Lost connection to MySQL server during query for query show tables like 'wp_revslider_sliders' made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/revslider/revslider.php'), RevSliderAdmin->__construct, RevSliderAdmin->init, RevSliderAdmin::createDBTables, RevSliderAdmin::createTable, UniteFunctionsWPRev::isDBTableExists
+[18-Feb-2015 00:21:48 UTC] WordPress database error Lost connection to MySQL server during query for query SELECT option_value FROM wp_options WHERE option_name = '_transient_timeout__landing_page_activation_redirect' LIMIT 1 made by do_action('admin_init'), call_user_func_array, LandingPages_Welcome->welcome, get_transient, get_option
+[26-Feb-2015 05:06:09 UTC] WordPress database error Lost connection to MySQL server during query for query SELECT * FROM wp_users WHERE user_login = 'guchaosean' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), WP->init, wp_get_current_user, get_currentuserinfo, apply_filters('determine_current_user'), call_user_func_array, wp_validate_auth_cookie, get_user_by, WP_User::get_data_by
+[10-Mar-2015 04:44:51 UTC] WordPress database error Lost connection to MySQL server during query for query select * from wp_revslider_settings made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/revslider/revslider.php'), RevSliderAdmin->__construct, RevSliderAdmin->init, UniteBaseAdminClassRev::requireSettings, require('/plugins/revslider/settings/general_settings.php'), RevOperations::getGeneralSettingsValues, RevSliderParams->getFieldFromDB, UniteDBRev->fetch
+[21-Mar-2015 09:55:01 UTC] WordPress database error Table 'wp_options' is read only for query INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_doing_cron', '1426931701.4437150955200195312500', 'yes') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, wp_cron, spawn_cron, set_transient, add_option
+[21-Mar-2015 09:55:03 UTC] WordPress database error Table 'wp_options' is read only for query INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_doing_cron', '1426931703.1188020706176757812500', 'yes') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, wp_cron, spawn_cron, set_transient, add_option
+[21-Mar-2015 09:55:04 UTC] WordPress database error Table 'wp_postmeta' is read only for query UPDATE `wp_postmeta` SET `meta_value` = '308' WHERE `post_id` = 596 AND `meta_key` = '_inbound_impressions_count' made by do_action('wp_ajax_nopriv_lp_record_impression'), call_user_func_array, lp_record_impression_callback, do_action('lp_record_impression'), call_user_func_array, lp_ab_testing_record_impression, update_post_meta, update_metadata

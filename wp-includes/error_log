@@ -1,0 +1,256 @@
+[29-Jan-2015 04:41:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/admin-bar.php on line 48
+[29-Jan-2015 04:41:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/author-template.php on line 454
+[29-Jan-2015 04:41:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/author-template.php on line 454
+[29-Jan-2015 04:41:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/canonical.php on line 556
+[29-Jan-2015 04:41:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/admin-bar.php on line 48
+[29-Jan-2015 04:41:11 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/canonical.php on line 556
+[29-Jan-2015 04:41:11 UTC] PHP Fatal error:  Class 'Walker' not found in /home/discov10/public_html/wp-includes/category-template.php on line 891
+[29-Jan-2015 04:41:11 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/class-feed.php on line 4
+[29-Jan-2015 04:41:11 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/class-feed.php on line 4
+[29-Jan-2015 04:41:11 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/class-feed.php on line 4
+[29-Jan-2015 04:41:11 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/class-feed.php on line 4
+[29-Jan-2015 04:41:12 UTC] PHP Fatal error:  Class 'Walker' not found in /home/discov10/public_html/wp-includes/category-template.php on line 891
+[29-Jan-2015 04:41:12 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/class-feed.php on line 4
+[29-Jan-2015 04:41:12 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/class-feed.php on line 4
+[29-Jan-2015 04:41:12 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/class-feed.php on line 4
+[29-Jan-2015 04:41:12 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/class-feed.php on line 4
+[29-Jan-2015 04:41:13 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:41:13 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:41:13 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:41:13 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:41:13 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:41:14 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/class-snoopy.php on line 6
+[29-Jan-2015 04:41:14 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:41:14 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:41:14 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:41:14 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:41:14 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:41:14 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/class-snoopy.php on line 6
+[29-Jan-2015 04:41:16 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/discov10/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[29-Jan-2015 04:41:16 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/class-wp-embed.php on line 26
+[29-Jan-2015 04:41:16 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/discov10/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[29-Jan-2015 04:41:17 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/discov10/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[29-Jan-2015 04:41:17 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/class-wp-embed.php on line 26
+[29-Jan-2015 04:41:17 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/discov10/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[29-Jan-2015 04:41:17 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/discov10/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[29-Jan-2015 04:41:17 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/discov10/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[29-Jan-2015 04:41:17 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/discov10/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[29-Jan-2015 04:41:17 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/discov10/public_html/wp-includes/class.wp-scripts.php on line 19
+[29-Jan-2015 04:41:17 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/discov10/public_html/wp-includes/class.wp-scripts.php on line 19
+[29-Jan-2015 04:41:18 UTC] PHP Fatal error:  Class 'Walker' not found in /home/discov10/public_html/wp-includes/comment-template.php on line 1648
+[29-Jan-2015 04:41:18 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/discov10/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[29-Jan-2015 04:41:18 UTC] PHP Fatal error:  Class 'Walker' not found in /home/discov10/public_html/wp-includes/comment-template.php on line 1648
+[29-Jan-2015 04:41:18 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/discov10/public_html/wp-includes/class.wp-styles.php on line 19
+[29-Jan-2015 04:41:18 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/discov10/public_html/wp-includes/class.wp-styles.php on line 19
+[29-Jan-2015 04:41:19 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/default-filters.php on line 17
+[29-Jan-2015 04:41:19 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/default-filters.php on line 17
+[29-Jan-2015 04:41:19 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/discov10/public_html/wp-includes/default-widgets.php on line 14
+[29-Jan-2015 04:41:19 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-atom-comments.php on line 8
+[29-Jan-2015 04:41:19 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/discov10/public_html/wp-includes/default-widgets.php on line 14
+[29-Jan-2015 04:41:19 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-atom.php on line 8
+[29-Jan-2015 04:41:19 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-atom-comments.php on line 8
+[29-Jan-2015 04:41:19 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-rdf.php on line 8
+[29-Jan-2015 04:41:19 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-atom.php on line 8
+[29-Jan-2015 04:41:19 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-rss.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-rss2-comments.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-rss.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-rdf.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-rss2-comments.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-rss2.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-rss2.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:41:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/general-template.php on line 1760
+[29-Jan-2015 04:41:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/general-template.php on line 1760
+[29-Jan-2015 04:41:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/kses.php on line 1455
+[29-Jan-2015 04:41:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/kses.php on line 1455
+[29-Jan-2015 04:41:21 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/discov10/public_html/wp-includes/media.php on line 781
+[29-Jan-2015 04:41:21 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/discov10/public_html/wp-includes/media.php on line 781
+[29-Jan-2015 04:41:22 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/ms-default-constants.php on line 153
+[29-Jan-2015 04:41:22 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/ms-default-filters.php on line 17
+[29-Jan-2015 04:41:22 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/ms-default-filters.php on line 17
+[29-Jan-2015 04:41:22 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/ms-default-constants.php on line 153
+[29-Jan-2015 04:41:22 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/ms-functions.php on line 2031
+[29-Jan-2015 04:41:22 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/ms-functions.php on line 2031
+[29-Jan-2015 04:41:22 UTC] PHP Fatal error:  Class 'Walker' not found in /home/discov10/public_html/wp-includes/nav-menu-template.php on line 16
+[29-Jan-2015 04:41:22 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/ms-settings.php on line 14
+[29-Jan-2015 04:41:22 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/ms-settings.php on line 14
+[29-Jan-2015 04:41:22 UTC] PHP Warning:  require_once(ABSPATHWPINC/ms-load.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/ms-settings.php on line 14
+[29-Jan-2015 04:41:22 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/ms-settings.php on line 14
+[29-Jan-2015 04:41:22 UTC] PHP Fatal error:  Class 'Walker' not found in /home/discov10/public_html/wp-includes/nav-menu-template.php on line 16
+[29-Jan-2015 04:41:22 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/ms-settings.php on line 14
+[29-Jan-2015 04:41:22 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/ms-settings.php on line 14
+[29-Jan-2015 04:41:22 UTC] PHP Warning:  require_once(ABSPATHWPINC/ms-load.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/ms-settings.php on line 14
+[29-Jan-2015 04:41:22 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/ms-settings.php on line 14
+[29-Jan-2015 04:41:23 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/post-formats.php on line 164
+[29-Jan-2015 04:41:23 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/post-formats.php on line 164
+[29-Jan-2015 04:41:23 UTC] PHP Fatal error:  Class 'Walker' not found in /home/discov10/public_html/wp-includes/post-template.php on line 1241
+[29-Jan-2015 04:41:23 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/post.php on line 167
+[29-Jan-2015 04:41:23 UTC] PHP Fatal error:  Class 'Walker' not found in /home/discov10/public_html/wp-includes/post-template.php on line 1241
+[29-Jan-2015 04:41:23 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/post.php on line 167
+[29-Jan-2015 04:41:23 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/registration-functions.php on line 7
+[29-Jan-2015 04:41:23 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/registration.php on line 7
+[29-Jan-2015 04:41:24 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/registration-functions.php on line 7
+[29-Jan-2015 04:41:24 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/registration.php on line 7
+[29-Jan-2015 04:41:24 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/rss-functions.php on line 8
+[29-Jan-2015 04:41:24 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/rss.php on line 19
+[29-Jan-2015 04:41:24 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/rss-functions.php on line 8
+[29-Jan-2015 04:41:24 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/shortcodes.php on line 403
+[29-Jan-2015 04:41:24 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:41:24 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:41:24 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:41:24 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:41:24 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:41:24 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/rss.php on line 19
+[29-Jan-2015 04:41:24 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/taxonomy.php on line 130
+[29-Jan-2015 04:41:24 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/discov10/public_html/wp-includes/template-loader.php on line 24
+[29-Jan-2015 04:41:24 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/shortcodes.php on line 403
+[29-Jan-2015 04:41:24 UTC] PHP Fatal error:  Call to undefined function is_robots() in /home/discov10/public_html/wp-includes/template-loader.php on line 28
+[29-Jan-2015 04:41:24 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/theme.php on line 678
+[29-Jan-2015 04:41:24 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:41:24 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:41:24 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:41:24 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:41:24 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:41:24 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/taxonomy.php on line 130
+[29-Jan-2015 04:41:25 UTC] PHP Fatal error:  Call to undefined function is_main_site() in /home/discov10/public_html/wp-includes/update.php on line 669
+[29-Jan-2015 04:41:25 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/theme.php on line 678
+[29-Jan-2015 04:41:25 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/discov10/public_html/wp-includes/vars.php on line 23
+[29-Jan-2015 04:41:25 UTC] PHP Fatal error:  Call to undefined function is_main_site() in /home/discov10/public_html/wp-includes/update.php on line 669
+[29-Jan-2015 04:41:25 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/discov10/public_html/wp-includes/vars.php on line 23
+[29-Jan-2015 04:44:16 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/class-feed.php on line 4
+[29-Jan-2015 04:44:16 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/class-feed.php on line 4
+[29-Jan-2015 04:44:16 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/class-feed.php on line 4
+[29-Jan-2015 04:44:16 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/class-feed.php on line 4
+[29-Jan-2015 04:44:16 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/class-feed.php on line 4
+[29-Jan-2015 04:44:16 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/class-feed.php on line 4
+[29-Jan-2015 04:44:16 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/class-feed.php on line 4
+[29-Jan-2015 04:44:16 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/class-feed.php on line 4
+[29-Jan-2015 04:44:17 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/admin-bar.php on line 48
+[29-Jan-2015 04:44:18 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/author-template.php on line 454
+[29-Jan-2015 04:44:18 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/admin-bar.php on line 48
+[29-Jan-2015 04:44:18 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/author-template.php on line 454
+[29-Jan-2015 04:44:18 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/canonical.php on line 556
+[29-Jan-2015 04:44:18 UTC] PHP Fatal error:  Class 'Walker' not found in /home/discov10/public_html/wp-includes/category-template.php on line 891
+[29-Jan-2015 04:44:18 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/canonical.php on line 556
+[29-Jan-2015 04:44:19 UTC] PHP Fatal error:  Class 'Walker' not found in /home/discov10/public_html/wp-includes/category-template.php on line 891
+[29-Jan-2015 04:44:19 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:44:19 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:44:19 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:44:19 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:44:19 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:44:19 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/class-snoopy.php on line 6
+[29-Jan-2015 04:44:19 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:44:19 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:44:19 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:44:19 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:44:19 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jan-2015 04:44:20 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/class-snoopy.php on line 6
+[29-Jan-2015 04:44:20 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/class-wp-embed.php on line 26
+[29-Jan-2015 04:44:20 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/class-wp-embed.php on line 26
+[29-Jan-2015 04:44:20 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/discov10/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[29-Jan-2015 04:44:20 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/discov10/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[29-Jan-2015 04:44:20 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/discov10/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[29-Jan-2015 04:44:20 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/discov10/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[29-Jan-2015 04:44:20 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/discov10/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[29-Jan-2015 04:44:20 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/discov10/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[29-Jan-2015 04:44:21 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/discov10/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[29-Jan-2015 04:44:21 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/discov10/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[29-Jan-2015 04:44:21 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/discov10/public_html/wp-includes/class.wp-scripts.php on line 19
+[29-Jan-2015 04:44:21 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/discov10/public_html/wp-includes/class.wp-scripts.php on line 19
+[29-Jan-2015 04:44:21 UTC] PHP Fatal error:  Class 'Walker' not found in /home/discov10/public_html/wp-includes/comment-template.php on line 1648
+[29-Jan-2015 04:44:21 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/discov10/public_html/wp-includes/class.wp-styles.php on line 19
+[29-Jan-2015 04:44:21 UTC] PHP Fatal error:  Class 'Walker' not found in /home/discov10/public_html/wp-includes/comment-template.php on line 1648
+[29-Jan-2015 04:44:21 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/discov10/public_html/wp-includes/class.wp-styles.php on line 19
+[29-Jan-2015 04:44:22 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/default-filters.php on line 17
+[29-Jan-2015 04:44:22 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/discov10/public_html/wp-includes/default-widgets.php on line 14
+[29-Jan-2015 04:44:22 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-atom-comments.php on line 8
+[29-Jan-2015 04:44:22 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/default-filters.php on line 17
+[29-Jan-2015 04:44:22 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/discov10/public_html/wp-includes/default-widgets.php on line 14
+[29-Jan-2015 04:44:22 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-atom-comments.php on line 8
+[29-Jan-2015 04:44:22 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-atom.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-rdf.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-atom.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-rss.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-rss2-comments.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-rdf.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-rss2.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-rss.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-rss2-comments.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/discov10/public_html/wp-includes/feed-rss2.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:44:23 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/functions.php on line 8
+[29-Jan-2015 04:44:24 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/general-template.php on line 1760
+[29-Jan-2015 04:44:24 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/general-template.php on line 1760
+[29-Jan-2015 04:44:24 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/kses.php on line 1455
+[29-Jan-2015 04:44:24 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/kses.php on line 1455
+[29-Jan-2015 04:44:24 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/discov10/public_html/wp-includes/media.php on line 781
+[29-Jan-2015 04:44:24 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/discov10/public_html/wp-includes/media.php on line 781
+[29-Jan-2015 04:44:25 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/ms-default-filters.php on line 17
+[29-Jan-2015 04:44:25 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/ms-default-constants.php on line 153
+[29-Jan-2015 04:44:25 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/ms-default-constants.php on line 153
+[29-Jan-2015 04:44:25 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/ms-default-filters.php on line 17
+[29-Jan-2015 04:44:25 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/ms-functions.php on line 2031
+[29-Jan-2015 04:44:25 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/ms-functions.php on line 2031
+[29-Jan-2015 04:44:25 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/ms-settings.php on line 14
+[29-Jan-2015 04:44:25 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/ms-settings.php on line 14
+[29-Jan-2015 04:44:25 UTC] PHP Warning:  require_once(ABSPATHWPINC/ms-load.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/ms-settings.php on line 14
+[29-Jan-2015 04:44:25 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/ms-settings.php on line 14
+[29-Jan-2015 04:44:25 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/ms-settings.php on line 14
+[29-Jan-2015 04:44:25 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/ms-settings.php on line 14
+[29-Jan-2015 04:44:25 UTC] PHP Warning:  require_once(ABSPATHWPINC/ms-load.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/ms-settings.php on line 14
+[29-Jan-2015 04:44:25 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/ms-settings.php on line 14
+[29-Jan-2015 04:44:25 UTC] PHP Fatal error:  Class 'Walker' not found in /home/discov10/public_html/wp-includes/nav-menu-template.php on line 16
+[29-Jan-2015 04:44:26 UTC] PHP Fatal error:  Class 'Walker' not found in /home/discov10/public_html/wp-includes/nav-menu-template.php on line 16
+[29-Jan-2015 04:44:26 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/post-formats.php on line 164
+[29-Jan-2015 04:44:26 UTC] PHP Fatal error:  Class 'Walker' not found in /home/discov10/public_html/wp-includes/post-template.php on line 1241
+[29-Jan-2015 04:44:26 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/post-formats.php on line 164
+[29-Jan-2015 04:44:26 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/post.php on line 167
+[29-Jan-2015 04:44:26 UTC] PHP Fatal error:  Class 'Walker' not found in /home/discov10/public_html/wp-includes/post-template.php on line 1241
+[29-Jan-2015 04:44:33 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/registration-functions.php on line 7
+[29-Jan-2015 04:44:33 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/registration.php on line 7
+[29-Jan-2015 04:44:33 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/post.php on line 167
+[29-Jan-2015 04:44:36 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/registration-functions.php on line 7
+[29-Jan-2015 04:44:36 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/registration.php on line 7
+[29-Jan-2015 04:44:38 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/rss-functions.php on line 8
+[29-Jan-2015 04:44:38 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/rss.php on line 19
+[29-Jan-2015 04:44:38 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/rss-functions.php on line 8
+[29-Jan-2015 04:44:39 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:44:39 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:44:39 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:44:39 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:44:39 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:44:39 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/discov10/public_html/wp-includes/rss.php on line 19
+[29-Jan-2015 04:44:39 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:44:39 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:44:39 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:44:39 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:44:39 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/discov10/public_html/wp-includes/script-loader.php on line 25
+[29-Jan-2015 04:44:39 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/shortcodes.php on line 403
+[29-Jan-2015 04:44:40 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/taxonomy.php on line 130
+[29-Jan-2015 04:44:40 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/discov10/public_html/wp-includes/shortcodes.php on line 403
+[29-Jan-2015 04:44:40 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/discov10/public_html/wp-includes/template-loader.php on line 24
+[29-Jan-2015 04:44:40 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/taxonomy.php on line 130
+[29-Jan-2015 04:44:40 UTC] PHP Fatal error:  Call to undefined function is_robots() in /home/discov10/public_html/wp-includes/template-loader.php on line 28
+[29-Jan-2015 04:44:40 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/theme.php on line 678
+[29-Jan-2015 04:44:41 UTC] PHP Fatal error:  Call to undefined function is_main_site() in /home/discov10/public_html/wp-includes/update.php on line 669
+[29-Jan-2015 04:44:41 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/discov10/public_html/wp-includes/theme.php on line 678
+[29-Jan-2015 04:44:41 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/discov10/public_html/wp-includes/vars.php on line 23
+[29-Jan-2015 04:44:41 UTC] PHP Fatal error:  Call to undefined function is_main_site() in /home/discov10/public_html/wp-includes/update.php on line 669
+[29-Jan-2015 04:44:41 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/discov10/public_html/wp-includes/vars.php on line 23
